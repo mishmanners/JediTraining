@@ -25,14 +25,21 @@ Thanks to [rainleander](https://github.com/rainleander/may-the-fourth/blob/main/
 To run the script, follow these steps:
 
 1. Clone the repository:
-``` git clone https://github.com/mishmanners/JediTraining.git```
+
+```
+git clone https://github.com/mishmanners/JediTraining.git
+```
 
 2. Change directory to the cloned repository:
 
-```cd Jedi-Training```
+```
+cd Jedi-Training
+```
 
 3. Run the script using Python:
 
-```python JediMindTricks.py```
+```
+python JediMindTricks.py
+```
 
 4. The script will output the final transformed sequence of numbers (hopefully :fingers_crossed:)

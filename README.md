@@ -24,10 +24,10 @@ May the force be with you!
 
 ### Run it in the cloud
 
-Thanks to [Dylan](dylan-mccarthy) for writing the `.devcotaniner` for you to run this in a Codespace.
+Thanks to [Dylan](dylan-mccarthy) for writing the `.devcotaniner` for you to run this in a Codespace. Remember, all GitHub users get 60 hours of free Codespace usage every single month 🥳
 
 1. Click the "Code" dropdown above the repository file list
-2. Click the "plus" button to open a Codespace
+2. Click the "plus" button to open a Codespace (it should open in a 2 core Codespace; if not make sure you select 2 core)
 3. Press CTRL + backtick on the keyboard (⌘ + backtick on Mac) to open the terminal
 4. Type ```python JediMindTricks.py``` into the terminal
 5. You should see the output!

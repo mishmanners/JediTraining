@@ -18,7 +18,7 @@ Use the Force (code) to apply the following transformations to the sequence:
 
 ## Run my code
 
-See if my code works (I hope it does!). I've added a main function to run the code.
+See if my code works (I hope it does!).
 
 May the force be with you!
 
@@ -28,8 +28,9 @@ Thanks to [Dylan](dylan-mccarthy) for writing the `.devcotaniner` for you to run
 
 1. Click the "Code" dropdown above the repository file list
 2. Click the "plus" button to open a Codespace
-3. Once the Codespace opens, click the "Run and Debug" tab on the left hand side of the Codespace
-4. Press CTRL + backtick on the keyboard (⌘ + backtick on Mac) to open the terminal and see the code running
+3. Press CTRL + backtick on the keyboard (⌘ + backtick on Mac) to open the terminal
+4. Type ```python JediMindTricks.py``` into the terminal
+5. You should see the output!
 
 ### Run it locally
 

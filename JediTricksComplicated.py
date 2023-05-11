@@ -1,3 +1,5 @@
+# Have been testing this file to get the functions working... currently still does not print results to the console.
+
 # write a function to generate a sequence of 10 random numbers between 1 and 10
 
 import random

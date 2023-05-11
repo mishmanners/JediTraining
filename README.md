@@ -26,9 +26,10 @@ May the force be with you!
 
 Thanks to [Dylan](dylan-mccarthy) for writing the `.devcotaniner` for you to run this in a Codespace.
 
-1. Click the "Code" dropdown above the repository file list.
+1. Click the "Code" dropdown above the repository file list
 2. Click the "plus" button to open a Codespace
-3. Once the Codespace opens, press CTRL + backtick on the keyboard (⌘ + backtick on Mac) to open the terminal
+3. Once the Codespace opens, click the "Run and Debug" tab on the left hand side of the Codespace
+4. Press CTRL + backtick on the keyboard (⌘ + backtick on Mac) to open the terminal and see the code running
 
 ### Run it locally
 

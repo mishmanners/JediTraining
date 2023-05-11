@@ -15,3 +15,22 @@ Use the Force (code) to apply the following transformations to the sequence:
 - Add 5 to every odd number
 - Replace any number greater than 10 with 1
 - Print the final sequence to the console.
+
+## Run my code
+
+See if my code works (I hope it does!). May the force be with you!
+
+Thanks to [rainleander](https://github.com/rainleander/may-the-fourth/blob/main/README.md) for the idea of adding this section, and for the instructions on how to do it!.
+
+To run the script, follow these steps:
+
+1. Clone the repository:
+``` git clone https://github.com/mishmanners/JediTraining.git```
+
+2. Change directory to the cloned repository:
+```cd Jedi-Training```
+
+3. Run the script using Python:
+```python JediMindTricks.py```
+
+4. The script will output the final transformed sequence of numbers (hopefully :fingers_crossed:)

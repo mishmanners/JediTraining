@@ -2,11 +2,12 @@
 
 import random
 
-# generate a sequence of 10 random numbers between 1 and 10
+# generate a sequence of 10 random numbers between 1 and 10 and print the result
 def generate_random_number():
-    random_number = random.randint(1, 10)
+    random_number = random.randint(1,10)
     return random_number
-    print("Your sequence is:" + random_number)
+    print("Your sequence is: " + random_number)
+
 
 # once we have the sequence, multiply all the even numbers by 2, and add 5 to all the odd numbers
 def change_numbers(random_number):

@@ -28,7 +28,7 @@ Thanks to [Dylan](dylan-mccarthy) for writing the `.devcotaniner` for you to run
 
 1. Click the "Code" dropdown above the repository file list.
 2. Click the "plus" button to open a Codespace
-3. 
+3. Once the Codespace opens, press CTRL + backtick on the keyboard (⌘ + backtick on Mac) to open the terminal
 
 ### Run it locally
 

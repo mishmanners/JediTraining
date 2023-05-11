@@ -14,7 +14,7 @@ Use the Force (code) to apply the following transformations to the sequence:
 - Multiply every even number by 2
 - Add 5 to every odd number
 - Replace any number greater than 10 with 1
-- Print the final sequence to the console.
+- Print the final sequence to the console
 
 ## Run my code
 

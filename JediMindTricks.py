@@ -29,7 +29,7 @@ def replace_numbers_greater_than_ten(random_number):
 
 # print the final sequence to the console
 def print_final_sequence(random_number):
-    print("Your Jedi mind trick is number: " + str(random_number))
+    print("Your Jedi mind trick is number: " + random_number)
 
 # main function
 def main():
@@ -38,3 +38,6 @@ def main():
     random_number = add_five_to_odd_numbers(random_number)
     random_number = replace_numbers_greater_than_ten(random_number)
     print_final_sequence(random_number)
+
+# Uncomment the next line to test the code
+print("My Jedi Powers are weak")
